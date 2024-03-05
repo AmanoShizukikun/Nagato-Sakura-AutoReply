@@ -37,5 +37,3 @@ Nagato-Sakura-AutoReply 是「長門櫻計畫」的其中一個分支，目的�
 - 下載: https://developer.nvidia.com/cuda-toolkit
 - NVIDIA cuDNN
 - 下載: https://developer.nvidia.com/cudnn
-- Python庫
-```shell
